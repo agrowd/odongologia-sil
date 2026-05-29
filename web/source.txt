@@ -1,0 +1,1133 @@
+<html lang="es-AR"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">		<title>Ordinas – Odontología de avanzada</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="alternate" type="application/rss+xml" title="Ordinas » Feed" href="https://ordinas.com.ar/feed/">
+<link rel="alternate" type="application/rss+xml" title="Ordinas » RSS de los comentarios" href="https://ordinas.com.ar/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ordinas.com.ar\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="hfe-widgets-style-css" href="https://ordinas.com.ar/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.2.0" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--cm-color-1: #257BC1;--wp--preset--color--cm-color-2: #2270B0;--wp--preset--color--cm-color-3: #FFFFFF;--wp--preset--color--cm-color-4: #F9FEFD;--wp--preset--color--cm-color-5: #27272A;--wp--preset--color--cm-color-6: #16181A;--wp--preset--color--cm-color-7: #8F8F8F;--wp--preset--color--cm-color-8: #FFFFFF;--wp--preset--color--cm-color-9: #C7C7C7;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 16px;--wp--preset--font-size--large: 20px;--wp--preset--font-size--x-large: 24px;--wp--preset--font-size--xx-large: 30px;--wp--preset--font-size--huge: 36px;--wp--preset--font-family--dm-sans: DM Sans, sans-serif;--wp--preset--font-family--public-sans: Public Sans, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--segoe-ui: Segoe UI, Arial, sans-serif;--wp--preset--font-family--ibm-plex-serif: IBM Plex Serif, sans-serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 760px;--wp--style--global--wide-size: 1160px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 24px; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-cm-color-1-color{color: var(--wp--preset--color--cm-color-1) !important;}.has-cm-color-2-color{color: var(--wp--preset--color--cm-color-2) !important;}.has-cm-color-3-color{color: var(--wp--preset--color--cm-color-3) !important;}.has-cm-color-4-color{color: var(--wp--preset--color--cm-color-4) !important;}.has-cm-color-5-color{color: var(--wp--preset--color--cm-color-5) !important;}.has-cm-color-6-color{color: var(--wp--preset--color--cm-color-6) !important;}.has-cm-color-7-color{color: var(--wp--preset--color--cm-color-7) !important;}.has-cm-color-8-color{color: var(--wp--preset--color--cm-color-8) !important;}.has-cm-color-9-color{color: var(--wp--preset--color--cm-color-9) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-cm-color-1-background-color{background-color: var(--wp--preset--color--cm-color-1) !important;}.has-cm-color-2-background-color{background-color: var(--wp--preset--color--cm-color-2) !important;}.has-cm-color-3-background-color{background-color: var(--wp--preset--color--cm-color-3) !important;}.has-cm-color-4-background-color{background-color: var(--wp--preset--color--cm-color-4) !important;}.has-cm-color-5-background-color{background-color: var(--wp--preset--color--cm-color-5) !important;}.has-cm-color-6-background-color{background-color: var(--wp--preset--color--cm-color-6) !important;}.has-cm-color-7-background-color{background-color: var(--wp--preset--color--cm-color-7) !important;}.has-cm-color-8-background-color{background-color: var(--wp--preset--color--cm-color-8) !important;}.has-cm-color-9-background-color{background-color: var(--wp--preset--color--cm-color-9) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-cm-color-1-border-color{border-color: var(--wp--preset--color--cm-color-1) !important;}.has-cm-color-2-border-color{border-color: var(--wp--preset--color--cm-color-2) !important;}.has-cm-color-3-border-color{border-color: var(--wp--preset--color--cm-color-3) !important;}.has-cm-color-4-border-color{border-color: var(--wp--preset--color--cm-color-4) !important;}.has-cm-color-5-border-color{border-color: var(--wp--preset--color--cm-color-5) !important;}.has-cm-color-6-border-color{border-color: var(--wp--preset--color--cm-color-6) !important;}.has-cm-color-7-border-color{border-color: var(--wp--preset--color--cm-color-7) !important;}.has-cm-color-8-border-color{border-color: var(--wp--preset--color--cm-color-8) !important;}.has-cm-color-9-border-color{border-color: var(--wp--preset--color--cm-color-9) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-public-sans-font-family{font-family: var(--wp--preset--font-family--public-sans) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-segoe-ui-font-family{font-family: var(--wp--preset--font-family--segoe-ui) !important;}.has-ibm-plex-serif-font-family{font-family: var(--wp--preset--font-family--ibm-plex-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="rt-fontawsome-css" href="https://ordinas.com.ar/wp-content/plugins/the-post-grid/assets/vendor/font-awesome/css/font-awesome.min.css?ver=7.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="rt-flaticon-css" href="https://ordinas.com.ar/wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.css?ver=7.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="rt-tpg-css" href="https://ordinas.com.ar/wp-content/plugins/the-post-grid/assets/css/thepostgrid.min.css?ver=7.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-style-css" href="https://ordinas.com.ar/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-76522-css" href="https://ordinas.com.ar/wp-content/uploads/elementor/css/post-76522.css?ver=1741181696" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://ordinas.com.ar/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.0" type="text/css" media="all">
+<link rel="stylesheet" id="colormag-elementor-css" href="https://ordinas.com.ar/wp-content/themes/colormag/inc/compatibility/elementor/assets/css/elementor.min.css?ver=4.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="widget-spacer-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="widget-image-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="e-animation-fadeInLeft-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="widget-heading-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="e-animation-fadeInDown-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="widget-text-editor-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="e-animation-fadeInRight-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="e-animation-fadeInUp-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="widget-divider-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-76520-css" href="https://ordinas.com.ar/wp-content/uploads/elementor/css/post-76520.css?ver=1777311306" type="text/css" media="all">
+<link rel="stylesheet" id="colormag_style-css" href="https://ordinas.com.ar/wp-content/themes/colormag/style.css?ver=1779987851" type="text/css" media="all">
+<style id="colormag_style-inline-css" type="text/css">
+body{color:#444444;}.cm-posts .post{box-shadow:0px 0px 2px 0px #E4E4E7;}@media screen and (min-width: 992px) {.cm-primary{width:70%;}}.colormag-button,
+			input[type="reset"],
+			input[type="button"],
+			input[type="submit"],
+			button,
+			.cm-entry-button span,
+			.wp-block-button .wp-block-button__link{color:#ffffff;}.cm-content{background-color:#ffffff;background-size:contain;}.cm-header .cm-menu-toggle svg,
+			.cm-header .cm-menu-toggle svg{fill:#fff;}.cm-footer-bar-area .cm-footer-bar__2 a{color:#207daf;} :root{--cm-color-1: #257BC1;--cm-color-2: #2270B0;--cm-color-3: #FFFFFF;--cm-color-4: #F9FEFD;--cm-color-5: #27272A;--cm-color-6: #16181A;--cm-color-7: #8F8F8F;--cm-color-8: #FFFFFF;--cm-color-9: #C7C7C7;}body{color:#444444;}.cm-posts .post{box-shadow:0px 0px 2px 0px #E4E4E7;}@media screen and (min-width: 992px) {.cm-primary{width:70%;}}.colormag-button,
+			input[type="reset"],
+			input[type="button"],
+			input[type="submit"],
+			button,
+			.cm-entry-button span,
+			.wp-block-button .wp-block-button__link{color:#ffffff;}.cm-content{background-color:#ffffff;background-size:contain;}.cm-header .cm-menu-toggle svg,
+			.cm-header .cm-menu-toggle svg{fill:#fff;}.cm-footer-bar-area .cm-footer-bar__2 a{color:#207daf;} :root{--cm-color-1: #257BC1;--cm-color-2: #2270B0;--cm-color-3: #FFFFFF;--cm-color-4: #F9FEFD;--cm-color-5: #27272A;--cm-color-6: #16181A;--cm-color-7: #8F8F8F;--cm-color-8: #FFFFFF;--cm-color-9: #C7C7C7;}.cm-header-builder .cm-header-buttons .cm-header-button .cm-button{background-color:#207daf;}.cm-header-builder .cm-header-top-row{background-color:#f4f4f5;}.cm-header-builder .cm-primary-nav .sub-menu, .cm-header-builder .cm-primary-nav .children{background-color:#232323;background-size:contain;}.cm-header-builder nav.cm-secondary-nav ul.sub-menu, .cm-header-builder .cm-secondary-nav .children{background-color:#232323;background-size:contain;}.cm-footer-builder .cm-footer-bottom-row{border-color:#3F3F46;}:root{--top-grid-columns: 4;
+			--main-grid-columns: 4;
+			--bottom-grid-columns: 2;
+			}.cm-footer-builder .cm-footer-bottom-row .cm-footer-col{flex-direction: column;}.cm-footer-builder .cm-footer-main-row .cm-footer-col{flex-direction: column;}.cm-footer-builder .cm-footer-top-row .cm-footer-col{flex-direction: column;} :root{--cm-color-1: #257BC1;--cm-color-2: #2270B0;--cm-color-3: #FFFFFF;--cm-color-4: #F9FEFD;--cm-color-5: #27272A;--cm-color-6: #16181A;--cm-color-7: #8F8F8F;--cm-color-8: #FFFFFF;--cm-color-9: #C7C7C7;}:root {--wp--preset--color--cm-color-1:#257BC1;--wp--preset--color--cm-color-2:#2270B0;--wp--preset--color--cm-color-3:#FFFFFF;--wp--preset--color--cm-color-4:#F9FEFD;--wp--preset--color--cm-color-5:#27272A;--wp--preset--color--cm-color-6:#16181A;--wp--preset--color--cm-color-7:#8F8F8F;--wp--preset--color--cm-color-8:#FFFFFF;--wp--preset--color--cm-color-9:#C7C7C7;}:root {--e-global-color-cmcolor1: #257BC1;--e-global-color-cmcolor2: #2270B0;--e-global-color-cmcolor3: #FFFFFF;--e-global-color-cmcolor4: #F9FEFD;--e-global-color-cmcolor5: #27272A;--e-global-color-cmcolor6: #16181A;--e-global-color-cmcolor7: #8F8F8F;--e-global-color-cmcolor8: #FFFFFF;--e-global-color-cmcolor9: #C7C7C7;}
+</style>
+<link rel="stylesheet" id="font-awesome-all-css" href="https://ordinas.com.ar/wp-content/themes/colormag/inc/customizer/customind/assets/fontawesome/v6/css/all.min.css?ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-4-css" href="https://ordinas.com.ar/wp-content/themes/colormag/assets/library/font-awesome/css/v4-shims.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="colormag-font-awesome-6-css" href="https://ordinas.com.ar/wp-content/themes/colormag/inc/customizer/customind/assets/fontawesome/v6/css/all.min.css?ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-76564-css" href="https://ordinas.com.ar/wp-content/uploads/elementor/css/post-76564.css?ver=1779301751" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-77151-css" href="https://ordinas.com.ar/wp-content/uploads/elementor/css/post-77151.css?ver=1777295310" type="text/css" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="//ordinas.com.ar/wp-content/uploads/pum/pum-site-styles.css?generated=1741182861&amp;ver=1.20.4" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-elementor-icons-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-icons-list-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-social-icons-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-social-share-icons-brands-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-social-share-icons-fontawesome-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-nav-menu-icons-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-widget-blockquote-css" href="https://ordinas.com.ar/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-mega-menu-css" href="https://ordinas.com.ar/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-nav-menu-widget-css" href="https://ordinas.com.ar/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0" type="text/css" media="all">
+<link rel="stylesheet" id="eael-general-css" href="https://ordinas.com.ar/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Sora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.5.8" type="text/css" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+/* ]]> */
+</script>
+<!--[if lte IE 8]>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/themes/colormag/assets/js/html5shiv.min.js?ver=4.1.2" id="html5-js"></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://ordinas.com.ar/wp-json/"><link rel="alternate" type="application/json" href="https://ordinas.com.ar/wp-json/wp/v2/pages/76520"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ordinas.com.ar/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.5.8">
+<link rel="canonical" href="https://ordinas.com.ar/">
+<link rel="shortlink" href="https://ordinas.com.ar/">
+<link rel="alternate" type="application/json+oembed" href="https://ordinas.com.ar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fordinas.com.ar%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://ordinas.com.ar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fordinas.com.ar%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.151.0">        <style>
+            :root {
+                --tpg-primary-color: #0d6efd;
+                --tpg-secondary-color: #0654c4;
+                --tpg-primary-light: #c4d0ff
+            }
+
+                    </style>
+		            <style>
+                .rt-container-fluid {
+                    position: relative;
+                }
+
+                .rt-tpg-container .tpg-pre-loader {
+                    position: relative;
+                    overflow: hidden;
+                }
+
+                .rt-tpg-container .rt-loading-overlay {
+                    opacity: 0;
+                    visibility: hidden;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    z-index: 1;
+                    background-color: #fff;
+                }
+
+                .rt-tpg-container .rt-loading {
+                    color: var(--tpg-primary-color);
+                    position: absolute;
+                    top: 40%;
+                    left: 50%;
+                    margin-left: -16px;
+                    z-index: 2;
+                    opacity: 0;
+                    visibility: hidden;
+                }
+
+                .rt-tpg-container .tpg-pre-loader .rt-loading-overlay {
+                    opacity: 0.8;
+                    visibility: visible;
+                }
+
+                .tpg-carousel-main .tpg-pre-loader .rt-loading-overlay {
+                    opacity: 1;
+                }
+
+                .rt-tpg-container .tpg-pre-loader .rt-loading {
+                    opacity: 1;
+                    visibility: visible;
+                }
+
+
+                #bottom-script-loader {
+                    position: absolute;
+                    width: calc(100% + 60px);
+                    height: calc(100% + 60px);
+                    z-index: 999;
+                    background: rgba(255, 255, 255, 0.95);
+                    margin: -30px;
+                }
+
+                #bottom-script-loader .rt-ball-clip-rotate {
+                    color: var(--tpg-primary-color);
+                    position: absolute;
+                    top: 80px;
+                    left: 50%;
+                    margin-left: -16px;
+                    z-index: 2;
+                }
+
+                .tpg-el-main-wrapper.loading {
+                    min-height: 300px;
+                    transition: 0.4s;
+                }
+
+                .tpg-el-main-wrapper.loading::before {
+                    width: 32px;
+                    height: 32px;
+                    display: inline-block;
+                    float: none;
+                    border: 2px solid currentColor;
+                    background: transparent;
+                    border-bottom-color: transparent;
+                    border-radius: 100%;
+                    -webkit-animation: ball-clip-rotate 0.75s linear infinite;
+                    -moz-animation: ball-clip-rotate 0.75s linear infinite;
+                    -o-animation: ball-clip-rotate 0.75s linear infinite;
+                    animation: ball-clip-rotate 0.75s linear infinite;
+                    left: 50%;
+                    top: 50%;
+                    position: absolute;
+                    z-index: 9999999999;
+                    color: red;
+                }
+
+
+                .rt-tpg-container .slider-main-wrapper,
+                .tpg-el-main-wrapper .slider-main-wrapper {
+                    opacity: 0;
+                }
+
+                .md-modal {
+                    visibility: hidden;
+                }
+
+                .md-modal.md-show {
+                    visibility: visible;
+                }
+
+                .builder-content.content-invisible {
+                    visibility: hidden;
+                }
+
+                .rt-tpg-container > *:not(.bottom-script-loader, .slider-main-wrapper) {
+                    opacity: 0;
+                }
+
+                .rt-popup-content .rt-tpg-container > *:not(.bottom-script-loader, .slider-main-wrapper) {
+                    opacity: 1;
+                }
+
+            </style>
+
+            <script>
+                jQuery(document).ready(function () {
+                    setTimeout(function () {
+                        jQuery('.rt-tpg-container > *:not(.bottom-script-loader, .slider-main-wrapper)').animate({ 'opacity': 1 })
+                    }, 100)
+                })
+
+                jQuery(window).on('elementor/frontend/init', function () {
+                    if (elementorFrontend.isEditMode()) {
+                        elementorFrontend.hooks.addAction('frontend/element_ready/widget', function () {
+                            jQuery('.rt-tpg-container > *:not(.bottom-script-loader, .slider-main-wrapper)').animate({ 'opacity': 1 })
+                        })
+                    }
+                })
+            </script>
+		<meta name="generator" content="Elementor 3.27.6; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style id="wp-fonts-local" type="text/css">
+@font-face{font-family:"DM Sans";font-style:normal;font-weight:100 900;font-display:fallback;src:url('https://fonts.gstatic.com/s/dmsans/v15/rP2Hp2ywxg089UriCZOIHTWEBlw.woff2') format('woff2');}
+@font-face{font-family:"Public Sans";font-style:normal;font-weight:100 900;font-display:fallback;src:url('https://fonts.gstatic.com/s/publicsans/v15/ijwOs5juQtsyLLR5jN4cxBEoRDf44uE.woff2') format('woff2');}
+@font-face{font-family:Roboto;font-style:normal;font-weight:100 900;font-display:fallback;src:url('https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.woff2') format('woff2');}
+@font-face{font-family:"IBM Plex Serif";font-style:normal;font-weight:400;font-display:fallback;src:url('https://ordinas.com.ar/wp-content/themes/colormag/assets/fonts/IBMPlexSerif-Regular.woff2') format('woff2');}
+@font-face{font-family:"IBM Plex Serif";font-style:normal;font-weight:700;font-display:fallback;src:url('https://ordinas.com.ar/wp-content/themes/colormag/assets/fonts/IBMPlexSerif-Bold.woff2') format('woff2');}
+@font-face{font-family:"IBM Plex Serif";font-style:normal;font-weight:600;font-display:fallback;src:url('https://ordinas.com.ar/wp-content/themes/colormag/assets/fonts/IBMPlexSerif-SemiBold.woff2') format('woff2');}
+@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:fallback;src:url('https://ordinas.com.ar/wp-content/themes/colormag/assets/fonts/Inter-Regular.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://ordinas.com.ar/wp-content/uploads/2024/03/cropped-iso1-ordinas-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://ordinas.com.ar/wp-content/uploads/2024/03/cropped-iso1-ordinas-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://ordinas.com.ar/wp-content/uploads/2024/03/cropped-iso1-ordinas-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://ordinas.com.ar/wp-content/uploads/2024/03/cropped-iso1-ordinas-1-270x270.png">
+<style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><script src="https://ordinas.com.ar/wp-includes/js/wp-emoji-release.min.js?ver=6.5.8" defer=""></script></head>
+<body class="home page-template page-template-elementor_header_footer page page-id-76520 wp-embed-responsive rttpg rttpg-7.9.1 radius-frontend rttpg-body-wrap rttpg-flaticon ehf-template-colormag ehf-stylesheet-colormag cm-header-layout-1 adv-style-1 cm-normal-container cm-no-sidebar wide cm-started-content elementor-default elementor-template-full-width elementor-kit-76522 elementor-page elementor-page-76520 e--ua-blink e--ua-chrome e--ua-webkit" cz-shortcut-listen="true" data-elementor-device-mode="mobile">
+		<div data-elementor-type="header" data-elementor-id="76564" class="elementor elementor-76564 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-12bc4f7 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="12bc4f7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;}">
+		<div class="elementor-element elementor-element-da2ede3 e-con-full e-flex e-con e-child" data-id="da2ede3" data-element_type="container">
+				<div class="elementor-element elementor-element-c7c5606 elementor-widget elementor-widget-image" data-id="c7c5606" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://ordinas.com.ar/">
+							<img width="60" height="60" src="https://ordinas.com.ar/wp-content/uploads/2024/03/iso1-ordinas.png" class="attachment-large size-large wp-image-78877" alt="">								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a5e0e76 e-con-full e-flex e-con e-child" data-id="a5e0e76" data-element_type="container">
+				<div class="elementor-element elementor-element-6833ae3 elementor-widget elementor-widget-heading" data-id="6833ae3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default"><a href="https://ordinas.com.ar/emmanuel-ordinas/">SOBRE ORDINAS</a></h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ccc13a2 e-con-full e-flex e-con e-child" data-id="ccc13a2" data-element_type="container">
+				<div class="elementor-element elementor-element-8275a80 elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="8275a80" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-far-comment" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 32C114.6 32 0 125.1 0 240c0 47.6 19.9 91.2 52.9 126.3C38 405.7 7 439.1 6.5 439.5c-6.6 7-8.4 17.2-4.6 26S14.4 480 24 480c61.5 0 110-25.7 139.1-46.3C192 442.8 223.2 448 256 448c141.4 0 256-93.1 256-208S397.4 32 256 32zm0 368c-26.7 0-53.1-4.1-78.4-12.1l-22.7-7.2-19.5 13.8c-14.3 10.1-33.9 21.4-57.5 29 7.3-12.1 14.4-25.7 19.9-40.2l10.6-28.1-20.6-21.8C69.7 314.1 48 282.2 48 240c0-88.2 93.3-160 208-160s208 71.8 208 160-93.3 160-208 160z"></path></svg>			</span>
+									<span class="elementor-button-text">Consultas</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-754cbc9 e-con-full e-flex e-con e-child" data-id="754cbc9" data-element_type="container">
+				<div class="elementor-element elementor-element-e656359 elementor-align-right elementor-mobile-align-right elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="e656359" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://ordinas.com.ar/wp-login.php?redirect_to=https%3A%2F%2Fordinas.com.ar%2Fcasos-clinicos%2F" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>			</span>
+									<span class="elementor-button-text">Acceder</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="wp-page" data-elementor-id="76520" class="elementor elementor-76520" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-3b7d1be e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="3b7d1be" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-507f4e4 elementor-widget elementor-widget-spacer" data-id="507f4e4" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7113998 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="7113998" data-element_type="container">
+		<div class="elementor-element elementor-element-0613185 e-con-full e-flex e-con e-child" data-id="0613185" data-element_type="container">
+		<div class="elementor-element elementor-element-f770895 e-con-full e-flex e-con e-child animated fadeInLeft" data-id="f770895" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+				<div class="elementor-element elementor-element-5c00b10 elementor-widget elementor-widget-image" data-id="5c00b10" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="290" height="63" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Ordinas-logoblanco-1.png" class="attachment-large size-large wp-image-78853" alt="">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1c7733d e-con-full e-flex e-con e-child animated fadeInLeft" data-id="1c7733d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+				<div class="elementor-element elementor-element-a17ff4a elementor-widget elementor-widget-heading" data-id="a17ff4a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Clínica Odontológica</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7158486 elementor-widget elementor-widget-heading" data-id="7158486" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">y de Salud Integral</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5edb279 e-con-full e-flex e-con e-child animated fadeInDown" data-id="5edb279" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;}">
+				<div class="elementor-element elementor-element-c394cb2 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="c394cb2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="681" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Banner1_Mesa-de-trabajo-1-1024x681.png" class="attachment-large size-large wp-image-78855" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2024/07/Banner1_Mesa-de-trabajo-1-1024x681.png 1024w, https://ordinas.com.ar/wp-content/uploads/2024/07/Banner1_Mesa-de-trabajo-1-300x200.png 300w, https://ordinas.com.ar/wp-content/uploads/2024/07/Banner1_Mesa-de-trabajo-1-768x511.png 768w, https://ordinas.com.ar/wp-content/uploads/2024/07/Banner1_Mesa-de-trabajo-1-1536x1022.png 1536w, https://ordinas.com.ar/wp-content/uploads/2024/07/Banner1_Mesa-de-trabajo-1-2048x1362.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px">															</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fea6da4 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="fea6da4" data-element_type="container">
+		<div class="elementor-element elementor-element-d2540a8 e-con-full e-flex e-con e-child" data-id="d2540a8" data-element_type="container">
+		<div class="elementor-element elementor-element-5c5d90e e-con-full e-flex e-con e-child animated fadeInLeft" data-id="5c5d90e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+				<div class="elementor-element elementor-element-87c1217 elementor-widget elementor-widget-heading" data-id="87c1217" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Odontología</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2fbcd65 elementor-widget elementor-widget-heading" data-id="2fbcd65" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">DE AVANZADA</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8c50310 elementor-widget elementor-widget-text-editor" data-id="8c50310" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Somos un centro de excelencia en salud bucal que combina la experiencia de un equipo multidisciplinario altamente capacitado con la tecnología más avanzada. Nuestro compromiso con la formación continua conjuntamente con el trabajo en equipo garantizan un abordaje integral y personalizado de cada caso, ofreciendo soluciones a medida, con resultados predecibles.<br><strong>Nuestro equipo se encuentra dirigido por Emmanuel Ordinas Odontólogo MP 14.671</strong></p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b4d9192 e-con-full e-flex e-con e-child animated fadeInDown" data-id="b4d9192" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;}">
+				<div class="elementor-element elementor-element-cd0b9c0 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="cd0b9c0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="3840" height="2160" src="https://ordinas.com.ar/wp-content/uploads/2025/11/captura22.png" class="attachment-full size-full wp-image-78985" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2025/11/captura22.png 3840w, https://ordinas.com.ar/wp-content/uploads/2025/11/captura22-300x169.png 300w, https://ordinas.com.ar/wp-content/uploads/2025/11/captura22-1024x576.png 1024w, https://ordinas.com.ar/wp-content/uploads/2025/11/captura22-768x432.png 768w, https://ordinas.com.ar/wp-content/uploads/2025/11/captura22-1536x864.png 1536w, https://ordinas.com.ar/wp-content/uploads/2025/11/captura22-2048x1152.png 2048w" sizes="(max-width: 3840px) 100vw, 3840px">															</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-689086f e-con-full e-flex e-con e-parent e-lazyloaded animated fadeInRight" data-id="689086f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
+				<div class="elementor-element elementor-element-fa7b5b1 elementor-widget elementor-widget-heading" data-id="fa7b5b1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">EL FUTURO DE LA SONRISA</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0d6ba28 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="0d6ba28" data-element_type="container">
+		<div class="elementor-element elementor-element-0d3f878 e-con-full e-flex e-con e-child" data-id="0d3f878" data-element_type="container">
+		<div class="elementor-element elementor-element-87c9a10 e-con-full e-flex e-con e-child animated fadeInLeft" data-id="87c9a10" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+				<div class="elementor-element elementor-element-a3610c5 elementor-widget elementor-widget-heading" data-id="a3610c5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Tecnología </h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b3d87d2 elementor-widget elementor-widget-heading" data-id="b3d87d2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">DE PRECISIÓN</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3531184 elementor-widget elementor-widget-text-editor" data-id="3531184" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>En Ordinas Odontología, la tecnología es una herramienta fundamental para lograr resultados óptimos.<br>Utilizamos escáneres intraorales 3D, radiografías digitales, y software de diseño de sonrisas y planificación de tratamientos para ofrecer una atención odontológica de vanguardia, siempre adaptada a las necesidades individuales de cada paciente.</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2dfda15 e-con-full e-flex e-con e-child animated fadeInDown" data-id="2dfda15" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;}">
+				<div class="elementor-element elementor-element-b06abb5 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="b06abb5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1624" height="1080" src="https://ordinas.com.ar/wp-content/uploads/2024/07/scanner_Mesa-de-trabajo-1.png" class="attachment-full size-full wp-image-78857" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2024/07/scanner_Mesa-de-trabajo-1.png 1624w, https://ordinas.com.ar/wp-content/uploads/2024/07/scanner_Mesa-de-trabajo-1-300x200.png 300w, https://ordinas.com.ar/wp-content/uploads/2024/07/scanner_Mesa-de-trabajo-1-1024x681.png 1024w, https://ordinas.com.ar/wp-content/uploads/2024/07/scanner_Mesa-de-trabajo-1-768x511.png 768w, https://ordinas.com.ar/wp-content/uploads/2024/07/scanner_Mesa-de-trabajo-1-1536x1021.png 1536w" sizes="(max-width: 1624px) 100vw, 1624px">															</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1cc6bd5 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="1cc6bd5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f8d47f5 elementor-widget elementor-widget-spacer" data-id="f8d47f5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0678b08 e-con-full e-flex e-con e-parent e-lazyloaded animated fadeInRight" data-id="0678b08" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b312a59 elementor-widget elementor-widget-heading" data-id="b312a59" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">EQUIPO MULTIDISCIPLINARIO</h6>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-97c04e5 e-con-full e-flex e-con e-parent e-lazyloaded animated fadeInRight" data-id="97c04e5" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-19b7de8 elementor-widget elementor-widget-heading" data-id="19b7de8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">CAPACITACIONES</h6>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9a9a2d8 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="9a9a2d8" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b37a37a elementor-widget elementor-widget-spacer" data-id="b37a37a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6b02104 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="6b02104" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5ff10d8 elementor-widget elementor-widget-heading" data-id="5ff10d8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">ABORDAJE INTEGRAL<br>Y PERSONALIZADO</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-db25277 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="db25277" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-bc09faa elementor-widget elementor-widget-heading" data-id="bc09faa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">de la salud bucal</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f78aeb9 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="f78aeb9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-493e5c4 e-con-full e-flex e-con e-child" data-id="493e5c4" data-element_type="container">
+		<div class="elementor-element elementor-element-671561b e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="671561b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8186e5b elementor-widget elementor-widget-image" data-id="8186e5b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-18.png" class="attachment-large size-large wp-image-78861" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-dfc2068 elementor-widget elementor-widget-heading" data-id="dfc2068" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Odontología<br>general y preventiva</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6976adf elementor-widget elementor-widget-text-editor" data-id="6976adf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-weight: 400;">Diagnóstico, tratamiento y prevención de enfermedades bucales, con énfasis en la educación y promoción de hábitos saludables.</span></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-ccf3daa elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="ccf3daa" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2eae665 e-con-full e-flex e-con e-child" data-id="2eae665" data-element_type="container">
+		<div class="elementor-element elementor-element-b79d092 e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="b79d092" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-24f65d7 elementor-widget elementor-widget-image" data-id="24f65d7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-21.png" class="attachment-large size-large wp-image-78864" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-e3a99ce elementor-widget elementor-widget-heading" data-id="e3a99ce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Cirugía Oral</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-75a36d6 elementor-widget elementor-widget-text-editor" data-id="75a36d6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Extracciones simples y complejas, implantes dentales, regeneración ósea y otros procedimientos quirúrgicos con técnicas mínimamente invasivas.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5e886c0 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="5e886c0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d3a9cba e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="d3a9cba" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-487ff93 elementor-widget elementor-widget-image" data-id="487ff93" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-22.png" class="attachment-large size-large wp-image-78865" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-ee3362e elementor-widget elementor-widget-heading" data-id="ee3362e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Implantología</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a81a0c1 elementor-widget elementor-widget-text-editor" data-id="a81a0c1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Implantes dentales de alta calidad con planificación digital y cirugía guiada para una mayor precisión y resultados predecibles.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-32f77b8 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="32f77b8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f9faa20 e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="f9faa20" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a25143c elementor-widget elementor-widget-image" data-id="a25143c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-20.png" class="attachment-large size-large wp-image-78863" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-fe45b94 elementor-widget elementor-widget-heading" data-id="fe45b94" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Odontopediatría</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-970fd39 elementor-widget elementor-widget-text-editor" data-id="970fd39" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Cuidado dental especializado para niños, creando un ambiente amigable y divertido para fomentar hábitos saludables desde temprana edad. </p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2c0874f elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2c0874f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-56d9df8 e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="56d9df8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-24e899e elementor-widget elementor-widget-image" data-id="24e899e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-21.png" class="attachment-large size-large wp-image-78864" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-7563b80 elementor-widget elementor-widget-heading" data-id="7563b80" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Ortodoncia</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c3bc532 elementor-widget elementor-widget-text-editor" data-id="c3bc532" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Corrección de la posición de los dientes y la mordida, tanto en niños como en adultos, utilizando técnicas tradicionales y ortodoncia invisible.</p><p>· Brackets metálicos</p><p>· Brackets estéticos</p><p>· Ortopedia: (Ortodoncia niños Removibles)</p><p>· Alineadores Invisibles</p><p><em>Trabajamos conjuntamente con</em></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-da9214f elementor-widget elementor-widget-image" data-id="da9214f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="http://bealineadores.com.ar">
+							<img loading="lazy" decoding="async" width="389" height="204" src="https://ordinas.com.ar/wp-content/uploads/2026/04/logo-general-2.png" class="attachment-large size-large wp-image-79066" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2026/04/logo-general-2.png 389w, https://ordinas.com.ar/wp-content/uploads/2026/04/logo-general-2-300x157.png 300w" sizes="(max-width: 389px) 100vw, 389px">								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-f4bc8b0 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="f4bc8b0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1588615 e-con-full e-flex e-con e-child" data-id="1588615" data-element_type="container">
+		<div class="elementor-element elementor-element-3df0102 e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="3df0102" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5da44f7 elementor-widget elementor-widget-image" data-id="5da44f7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-19.png" class="attachment-large size-large wp-image-78862" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-3e5d9eb elementor-widget elementor-widget-heading" data-id="3e5d9eb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Estética dental</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7bf1e63 elementor-widget elementor-widget-text-editor" data-id="7bf1e63" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Diseño de sonrisa personalizado con software 3d blanqueamiento dental, carillas de porcelana y ortodoncia invisible, para realizar su belleza natural, manteniendo la armonía de sus rasgos faciales.</p><p><em>Trabajamos conjuntamente con</em><strong> Growbe Alineadores Invisibles</strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-acc0d87 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="acc0d87" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b21ca3a e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="b21ca3a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3b0c8ae elementor-widget elementor-widget-image" data-id="3b0c8ae" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-19.png" class="attachment-large size-large wp-image-78862" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-54a4953 elementor-widget elementor-widget-heading" data-id="54a4953" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Endodoncia</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b6c8f9b elementor-widget elementor-widget-text-editor" data-id="b6c8f9b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Tratamiento de conductos radiculares de manera mecanizada para una mayor precisión, menos sesiones, mejor post operatorio y conservación de la estructura dental.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-01dd964 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="01dd964" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f9f6970 e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="f9f6970" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b736c58 elementor-widget elementor-widget-image" data-id="b736c58" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-20.png" class="attachment-large size-large wp-image-78863" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-83d1fb9 elementor-widget elementor-widget-heading" data-id="83d1fb9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Periodoncia</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ede141b elementor-widget elementor-widget-text-editor" data-id="ede141b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Tratamiento de enfermedades de las encías y regeneración de tejidos periodontales para una base sólida y saludable.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2c348dd elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2c348dd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-dc670f3 e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="dc670f3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-87a06f1 elementor-widget elementor-widget-image" data-id="87a06f1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="104" height="106" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Iconosweb-20.png" class="attachment-large size-large wp-image-78863" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-c4079b3 elementor-widget elementor-widget-heading" data-id="c4079b3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Prótesis ó Prostodoncia</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4cb9461 elementor-widget elementor-widget-text-editor" data-id="4cb9461" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Rehabilitación oral completa o parcial con prótesis fijas (coronas, puentes) y removibles, diseñadas para restaurar la función y estética de tu sonrisa.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f5c84f3 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="f5c84f3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5492215644414" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Solicitá una consulta</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5623113 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="5623113" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-46b9b96 elementor-widget elementor-widget-spacer" data-id="46b9b96" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-cec10cf e-flex e-con-boxed e-con e-parent e-lazyloaded animated fadeInRight" data-id="cec10cf" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-b7aa315 e-con-full e-flex e-con e-child" data-id="b7aa315" data-element_type="container">
+				<div class="elementor-element elementor-element-68c6236 elementor-widget elementor-widget-heading" data-id="68c6236" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">ESPECIALIDADES<br>MÉDICAS</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-71c1af6 elementor-widget elementor-widget-heading" data-id="71c1af6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default"><span>SALUD</span></h6>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a778b0e e-flex e-con-boxed e-con e-child" data-id="a778b0e" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-cb1a2a1 elementor-widget elementor-widget-text-editor" data-id="cb1a2a1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-size: 1rem;">· Medicina clínica</span></p>
+<p><span style="font-size: 1rem;">· Medicina clínica del dolor</span></p>
+<p><span style="font-size: 1rem;">· Psicología&nbsp;</span></p>
+<p><span style="font-size: 1rem;">· Adolescentes y adultos</span></p>								</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-dd768ce e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="dd768ce" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e6fd8a2 elementor-widget elementor-widget-spacer" data-id="e6fd8a2" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8078f4c e-con-full e-flex e-con e-parent e-lazyloaded animated fadeInRight" data-id="8078f4c" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-f45e1c3 e-con-full e-flex e-con e-child" data-id="f45e1c3" data-element_type="container">
+				<div class="elementor-element elementor-element-b9525e6 elementor-widget elementor-widget-heading" data-id="b9525e6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">ESTÉTICA</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-436b1cf elementor-widget elementor-widget-heading" data-id="436b1cf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default"><font color="#c3aca2">INTEGRAL</font></h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f9ebb40 elementor-widget elementor-widget-text-editor" data-id="f9ebb40" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Tratamientos faciales</p><p><span style="font-size: 1rem;">y</span><span style="font-size: 1rem;">&nbsp;corporales.</span></p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3e80ac7 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="3e80ac7" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a52294b elementor-widget elementor-widget-spacer" data-id="a52294b" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2b70a46 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="2b70a46" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d2b826a e-con-full e-flex e-con e-child" data-id="d2b826a" data-element_type="container">
+				<div class="elementor-element elementor-element-77880c0 elementor-widget elementor-widget-image" data-id="77880c0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="429" height="168" src="https://ordinas.com.ar/wp-content/uploads/2024/07/mediosdepago-27.png" class="attachment-large size-large wp-image-78868" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2024/07/mediosdepago-27.png 429w, https://ordinas.com.ar/wp-content/uploads/2024/07/mediosdepago-27-300x117.png 300w" sizes="(max-width: 429px) 100vw, 429px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b9a51c2 e-con-full e-flex e-con e-child" data-id="b9a51c2" data-element_type="container">
+		<div class="elementor-element elementor-element-87c80dc e-con-full e-flex e-con e-child" data-id="87c80dc" data-element_type="container">
+				<div class="elementor-element elementor-element-ac53f92 elementor-widget elementor-widget-heading" data-id="ac53f92" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Aceptamos todas las<br>formas de pago</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-13fde5b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="13fde5b" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-390cc74 e-con-full e-flex e-con e-child" data-id="390cc74" data-element_type="container">
+				<div class="elementor-element elementor-element-87a3617 elementor-widget elementor-widget-heading" data-id="87a3617" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Financiación propia, sin intermediarios.
+</h2>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-77e6f35 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="77e6f35" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6655aa9 elementor-widget elementor-widget-spacer" data-id="6655aa9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-746a633 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="746a633" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-398fcd0 elementor-widget elementor-widget-spacer" data-id="398fcd0" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6c89389 e-flex e-con-boxed e-con e-parent e-lazyloaded animated fadeInUp" data-id="6c89389" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-03434b9 e-con-full e-flex e-con e-child" data-id="03434b9" data-element_type="container">
+				<div class="elementor-element elementor-element-19358ea elementor-widget elementor-widget-heading" data-id="19358ea" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">La Plata</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b08571e elementor-widget elementor-widget-text-editor" data-id="b08571e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Teléfono:</strong></p>
+<p>(0221) 564-4414</p>
+<p><strong><br></strong></p><p><strong>Dirección:</strong></p>
+<p>Av. 72 nº 1214 (e/ 19 y 20)</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-697dfdf e-con-full e-flex e-con e-child" data-id="697dfdf" data-element_type="container">
+				<div class="elementor-element elementor-element-ddf9b92 elementor-widget elementor-widget-heading" data-id="ddf9b92" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">City Bell</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9008e64 elementor-widget elementor-widget-text-editor" data-id="9008e64" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Teléfono:</strong></p>
+<p>0221 621-7472</p>
+<p><strong><br></strong></p><p><strong>Dirección:</strong></p>
+<p>Cantilo 473 nº 1215 (e/ 17 y 19)</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-74a6eb7 e-con-full e-flex e-con e-child" data-id="74a6eb7" data-element_type="container">
+				<div class="elementor-element elementor-element-7ddecb4 elementor-widget elementor-widget-heading" data-id="7ddecb4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Gonnet</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6b4df2c elementor-widget elementor-widget-text-editor" data-id="6b4df2c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Teléfono:</strong></p>
+<p>0221 626-8888</p>
+<p><strong><br></strong></p><p><strong>Dirección:</strong></p>
+<p>Cno. Gral. Belgrano y 492</p>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-665231a e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="665231a" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c3c4bcf e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="c3c4bcf" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8cd880b e-con-full e-flex e-con e-child" data-id="8cd880b" data-element_type="container">
+				<div class="elementor-element elementor-element-60cee0b elementor-widget elementor-widget-image" data-id="60cee0b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="429" height="168" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Osde-23.png" class="attachment-large size-large wp-image-78870" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2024/07/Osde-23.png 429w, https://ordinas.com.ar/wp-content/uploads/2024/07/Osde-23-300x117.png 300w" sizes="(max-width: 429px) 100vw, 429px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9e21f6d e-con-full e-flex e-con e-child" data-id="9e21f6d" data-element_type="container">
+				<div class="elementor-element elementor-element-8587dc2 elementor-widget elementor-widget-image" data-id="8587dc2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="609" height="296" src="https://ordinas.com.ar/wp-content/uploads/2024/07/neodent-02.png" class="attachment-large size-large wp-image-78933" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2024/07/neodent-02.png 609w, https://ordinas.com.ar/wp-content/uploads/2024/07/neodent-02-300x146.png 300w" sizes="(max-width: 609px) 100vw, 609px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-46e51ec e-con-full e-flex e-con e-child" data-id="46e51ec" data-element_type="container">
+				<div class="elementor-element elementor-element-75e7297 elementor-widget elementor-widget-image" data-id="75e7297" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="566" src="https://ordinas.com.ar/wp-content/uploads/2025/11/LogoNuevoGrowbe-1024x566.png" class="attachment-large size-large wp-image-78978" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2025/11/LogoNuevoGrowbe-1024x566.png 1024w, https://ordinas.com.ar/wp-content/uploads/2025/11/LogoNuevoGrowbe-300x166.png 300w, https://ordinas.com.ar/wp-content/uploads/2025/11/LogoNuevoGrowbe-768x424.png 768w, https://ordinas.com.ar/wp-content/uploads/2025/11/LogoNuevoGrowbe.png 1225w" sizes="(max-width: 1024px) 100vw, 1024px">															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e269781 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="e269781" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+				<div data-elementor-type="footer" data-elementor-id="77151" class="elementor elementor-77151 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-5d6603b e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="5d6603b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-b50fa60 e-flex e-con-boxed e-con e-child" data-id="b50fa60" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-730a0a6 e-grid-align-mobile-center e-grid-align-left elementor-widget__width-initial elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="730a0a6" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-492f1de" href="https://www.facebook.com/OrdinasConsultorios/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-cf6f69e" href="https://www.instagram.com/clinicaordinas/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4720d0c7 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="4720d0c7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://ordinas.com.ar">
+							<img width="290" height="63" src="https://ordinas.com.ar/wp-content/uploads/2024/07/Ordinas-logoblanco-1.png" class="attachment-full size-full wp-image-78853" alt="">								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-d5c9d21 elementor-widget elementor-widget-text-editor" data-id="d5c9d21" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Emmanuel Ordinas. – Odontólogo MP 14.671</strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7840385 elementor-widget elementor-widget-text-editor" data-id="7840385" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Copyright 2024 – Todos los derechos reservados</p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ed3fd8a e-con-full e-flex e-con e-child" data-id="ed3fd8a" data-element_type="container">
+		<div class="elementor-element elementor-element-6e5ef37 e-con-full e-flex e-con e-child" data-id="6e5ef37" data-element_type="container">
+				<div class="elementor-element elementor-element-7db4f511 elementor-widget elementor-widget-heading" data-id="7db4f511" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Contactos</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-721bbbba elementor-mobile-align-center elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="721bbbba" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Turnos: +54 9 221 626 - 8888</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-envelope-open" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M512 464c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V200.724a48 48 0 0 1 18.387-37.776c24.913-19.529 45.501-35.365 164.2-121.511C199.412 29.17 232.797-.347 256 .003c23.198-.354 56.596 29.172 73.413 41.433 118.687 86.137 139.303 101.995 164.2 121.512A48 48 0 0 1 512 200.724V464zm-65.666-196.605c-2.563-3.728-7.7-4.595-11.339-1.907-22.845 16.873-55.462 40.705-105.582 77.079-16.825 12.266-50.21 41.781-73.413 41.43-23.211.344-56.559-29.143-73.413-41.43-50.114-36.37-82.734-60.204-105.582-77.079-3.639-2.688-8.776-1.821-11.339 1.907l-9.072 13.196a7.998 7.998 0 0 0 1.839 10.967c22.887 16.899 55.454 40.69 105.303 76.868 20.274 14.781 56.524 47.813 92.264 47.573 35.724.242 71.961-32.771 92.263-47.573 49.85-36.179 82.418-59.97 105.303-76.868a7.998 7.998 0 0 0 1.839-10.967l-9.071-13.196z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">info@ordinas.com.ar</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5d3c588 e-con-full e-flex e-con e-child" data-id="5d3c588" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-a656cb6 elementor-widget elementor-widget-heading" data-id="a656cb6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">CLINICAS</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1289eaf elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1289eaf" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">La Plata: Av. 72 nº 1214 (e/ 19 y 20) </span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">CityBell: Cantilo 473 nº 1215 (e/ 17 y 19)</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Gonnet: Cno. Gral. Belgrano y 492</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0130fea e-con-full e-flex e-con e-parent e-lazyloaded" data-id="0130fea" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-61d80c5 elementor-widget elementor-widget-image" data-id="61d80c5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1982" height="157" src="https://ordinas.com.ar/wp-content/uploads/2024/03/logo-EGSM-2026-2.png" class="attachment-full size-full wp-image-79016" alt="" srcset="https://ordinas.com.ar/wp-content/uploads/2024/03/logo-EGSM-2026-2.png 1982w, https://ordinas.com.ar/wp-content/uploads/2024/03/logo-EGSM-2026-2-300x24.png 300w, https://ordinas.com.ar/wp-content/uploads/2024/03/logo-EGSM-2026-2-1024x81.png 1024w, https://ordinas.com.ar/wp-content/uploads/2024/03/logo-EGSM-2026-2-768x61.png 768w, https://ordinas.com.ar/wp-content/uploads/2024/03/logo-EGSM-2026-2-1536x122.png 1536w" sizes="(max-width: 1982px) 100vw, 1982px">															</div>
+				</div>
+				</div>
+				</div>
+		
+<div id="pum-78959" role="dialog" aria-modal="false" aria-labelledby="pum_popup_title_78959" class="pum pum-overlay pum-theme-78951 pum-theme-lightbox popmake-overlay auto_open click_open" data-popmake="{&quot;id&quot;:78959,&quot;slug&quot;:&quot;bienvenidos&quot;,&quot;theme_id&quot;:78951,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-78959&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:null,&quot;path&quot;:true,&quot;time&quot;:&quot;1 day&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;pum-78959&quot;],&quot;delay&quot;:&quot;0&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-78959" class="pum-container popmake theme-78951 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+							<div id="pum_popup_title_78959" class="pum-title popmake-title">
+				Bienvenidos			</div>
+		
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<p style="text-align: center;"><span style="font-size: 18px;">Te ofrecemos un servicio integral de odontología de avanzada, contamos con un amplio plantel de profesionales para abordar distintas especialidades, estudios digitales y dos sedes en La Plata y City Bell para brindarte la mejor atención y comodidad en tus tratamientos dentales.</span></p>
+<p style="text-align: center;"><span style="font-size: 21px;"><strong>Proximamente también en Gonnet</strong></span></p>
+<p>&nbsp;</p>
+<p><a href="https://api.whatsapp.com/send/?phone=5492215644414&amp;text&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><img decoding="async" class="aligncenter wp-image-78966 size-medium" style="font-size: 21px; text-align: center;" src="https://ordinas.com.ar/wp-content/uploads/2025/03/Turnos-300x60.png" alt="" width="300" height="60" srcset="https://ordinas.com.ar/wp-content/uploads/2025/03/Turnos-300x60.png 300w, https://ordinas.com.ar/wp-content/uploads/2025/03/Turnos-1024x205.png 1024w, https://ordinas.com.ar/wp-content/uploads/2025/03/Turnos-768x154.png 768w, https://ordinas.com.ar/wp-content/uploads/2025/03/Turnos-1536x307.png 1536w, https://ordinas.com.ar/wp-content/uploads/2025/03/Turnos-2048x410.png 2048w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
+<p>&nbsp;</p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			×			</button>
+		
+	</div>
+
+</div>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel="stylesheet" id="widget-social-icons-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="e-apple-webkit-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.27.6" type="text/css" media="all">
+<link rel="stylesheet" id="widget-icon-list-css" href="https://ordinas.com.ar/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.27.6" type="text/css" media="all">
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/themes/colormag/assets/js/colormag-custom.min.js?ver=4.1.2" id="colormag-custom-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/themes/colormag/assets/js/jquery.bxslider.min.js?ver=4.1.2" id="colormag-bxslider-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/themes/colormag/assets/js/news-ticker/jquery.newsTicker.min.js?ver=4.1.2" id="colormag-news-ticker-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/themes/colormag/assets/js/navigation.min.js?ver=4.1.2" id="colormag-navigation-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/themes/colormag/assets/js/fitvids/jquery.fitvids.min.js?ver=4.1.2" id="colormag-fitvids-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/themes/colormag/assets/js/skip-link-focus-fix.min.js?ver=4.1.2" id="colormag-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.20.4","pm_dir_url":"https:\/\/ordinas.com.ar\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/ordinas.com.ar\/wp-admin\/admin-ajax.php","restapi":"https:\/\/ordinas.com.ar\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"78950","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/ordinas.com.ar\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/ordinas.com.ar\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-78959":{"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-78959"],"delay":"0"}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-78959","key":"","session":null,"path":true,"time":"1 day"}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"78951","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":78959,"slug":"bienvenidos"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//ordinas.com.ar/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1741182861&amp;ver=1.20.4" id="popup-maker-site-js"></script>
+<script type="text/javascript" id="eael-general-js-extra">
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https:\/\/ordinas.com.ar\/wp-admin\/admin-ajax.php","nonce":"fc51f16ba8","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/ordinas.com.ar\/","cart_redirectition":"no","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.6.2" id="eael-general-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.23.0" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.27.6" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.27.6" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/ordinas.com.ar\/wp-admin\/admin-ajax.php","nonce":"09923cae64","urls":{"assets":"https:\/\/ordinas.com.ar\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/ordinas.com.ar\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_AR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/ordinas.com.ar\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.23.0" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-extra">
+/* <![CDATA[ */
+var EAELImageMaskingConfig = {"svg_dir_url":"https:\/\/ordinas.com.ar\/wp-content\/plugins\/essential-addons-for-elementor-lite\/assets\/front-end\/img\/image-masking\/svg-shapes\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Fijarlo","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.27.6","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_onboarding":true,"theme_builder_v2":true,"home_screen":true,"landing-pages":true,"nested-elements":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true,"display-conditions":true,"form-submissions":true,"taxonomy-filter":true},"urls":{"assets":"https:\/\/ordinas.com.ar\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/ordinas.com.ar\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/ordinas.com.ar\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"79d688895e"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":76520,"title":"Ordinas%20%E2%80%93%20Odontolog%C3%ADa%20de%20avanzada","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script type="text/javascript" src="https://ordinas.com.ar/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.23.0" id="pro-elements-handlers-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+
+
+
+</body><chatgpt-sidebar data-rendered="true" data-gpts-theme="light"></chatgpt-sidebar></html>
