@@ -22,12 +22,12 @@ odontologia-sill/
 │   ├── changelog.md             # Registro de cambios por versión
 │   ├── logs.md                  # Control de debugging console.logs
 │   └── chat.md                  # Historial de chat guardado
-└── web/                         # Archivos públicos de la web
-    ├── index.html               # Página de inicio principal
-    ├── styles.css               # Estilos vanilla CSS premium adaptados (femenino)
-    ├── main.js                  # Lógica del sitio (modales, scroll, animaciones)
-    ├── ordinas.com.ar_.png      # Captura de pantalla del sitio original
-    └── source.txt               # Código fuente original de referencia
+├── index.html                   # Página de inicio principal (raíz para deploy en Vercel)
+├── styles.css                   # Estilos vanilla CSS premium adaptados (raíz para deploy en Vercel)
+├── main.js                      # Lógica del sitio (raíz para deploy en Vercel)
+├── ordinas.com.ar_.png          # Captura de pantalla del sitio original (raíz)
+├── source.txt                   # Código fuente original de referencia (raíz)
+└── web/                         # Carpeta original de respaldo
 ```
 
 ## 🏛️ Arquitectura del Sistema
