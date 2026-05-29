@@ -9,9 +9,14 @@
 - **Asistente**: Re-escribió `web/index.html` importando la estructura completa exacta de `source.txt`.
 - **Usuario**: Reportó que la réplica de WordPress se veía mal en la visualización local.
 - **Asistente**: Detectó que la réplica de WordPress fallaba debido a errores de CORS al cargar recursos externos (fuentes y estilos), scripts de Elementor caídos por falta de base de datos WordPress, y opacidades bloqueadas a 0 por el lazyloader roto.
-- **Asistente (Resolución)**: Re-escribió el sitio completo implementando una réplica estática fiel de primer nivel en Vanilla HTML5 y CSS3:
-  1. Replicó de forma exacta cada sección, columna, grilla de especialidades, banners divididos, llamadas de pago y mapas de sedes.
-  2. Implementó un sistema de diseño responsivo autónomo en `web/styles.css` con variables CSS para el esquema femenino (Soft Rose, Champagne Gold, Deep Charcoal).
-  3. Eliminó por completo el inicio de sesión y adaptó la dirección médica y copyrights a la Dra. Sil (M.P. 14.671).
-  4. Agregó la lógica del modal interactivo de bienvenida y scroll spy en `web/main.js`.
-  5. Completó las bitácoras finales del Ariadne Engine.
+- **Asistente (Resolución)**: Re-escribió el sitio completo implementando una réplica estática fiel de primer nivel en Vanilla HTML5 y CSS3.
+- **Usuario**: Informó que al desplegar en Vercel daba error 404: NOT_FOUND.
+- **Asistente**: Corrigió la ubicación de los archivos de `web/` a la raíz del repositorio y los subió a GitHub. Vercel desplegó exitosamente en `https://odongologia-sil.vercel.app`.
+- **Usuario**: Indicó que envió un archivo PDF con correcciones en la carpeta `cambios/` junto a un manual de marca y logos, pidiendo analizarlo y aplicarlo al sitio web.
+- **Asistente**: Analizó los documentos de la carpeta `cambios/`. Encontró la migración a la marca **Oliva Perez Odontología**, que incluye:
+  1. Nueva paleta (Naranjas, Amarillo Oro, Carbón, Gris).
+  2. Tipografía Bebas Neue y logotipo oficial `logo.jpg`.
+  3. Perfiles de doctores: Dra. Silvia Perez y Dr. Joaquín Oliva Fredriks.
+  4. Sede única en CABA (Av. Independencia 1637).
+  5. Eliminación de las secciones de tecnología y especialidades médicas.
+  - El asistente actualizó el plan de implementación, obtuvo la aprobación del usuario y ejecutó todos los cambios a la perfección, actualizando los archivos en la raíz y en la carpeta backup `web/`, y sincronizando la memoria persistente del Ariadne Engine.

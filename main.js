@@ -1,10 +1,10 @@
 /**
- * Odontología Sil - Interactive JS Features
+ * Oliva Perez Odontología - Interactive JS Features
  * [Development Debugging Logs Tracked in .synapse/logs.md]
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('[Sil-Log-01] DOM Content Loaded. Initializing scripts.');
+    console.log('[OlivaPerez-Log-01] DOM Content Loaded. Initializing scripts.');
 
     // ==========================================================================
     // RESPONSIVE MOBILE NAVIGATION
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (menuToggle && navMenu) {
         menuToggle.addEventListener('click', () => {
-            console.log('[Sil-Log-02] Menu toggle button clicked.');
+            console.log('[OlivaPerez-Log-02] Menu toggle button clicked.');
             navMenu.classList.toggle('active');
             
             // Toggle hamburger icon animation
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Close menu when a link is clicked
         navLinks.forEach(link => {
             link.addEventListener('click', () => {
-                console.log(`[Sil-Log-03] Navigation link clicked: ${link.textContent}`);
+                console.log(`[OlivaPerez-Log-03] Navigation link clicked: ${link.textContent}`);
                 navMenu.classList.remove('active');
                 const icon = menuToggle.querySelector('i');
                 if (icon) {
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (header) {
             if (window.scrollY > 40) {
                 header.style.boxShadow = 'var(--shadow-medium)';
-                header.style.backgroundColor = 'rgba(250, 247, 247, 0.99)';
+                header.style.backgroundColor = 'rgba(250, 247, 247, 0.98)';
             } else {
                 header.style.boxShadow = 'none';
                 header.style.backgroundColor = 'rgba(250, 247, 247, 0.95)';
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Helper function to update active class on menu items manually as simple scroll observer
+    // Simple scroll observer to manually update active menu links
     const sections = ['inicio', 'sobre-nosotros', 'especialidades', 'clinicas'];
     
     window.addEventListener('scroll', () => {
@@ -99,22 +99,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (welcomeModal && modalCloseBtn) {
         // Use sessionStorage so it only opens once per session (makes testing and repeat viewing easy)
-        const welcomeShown = sessionStorage.getItem('sil-welcome-popup-dismissed');
+        const welcomeShown = sessionStorage.getItem('oliva-perez-welcome-popup-dismissed');
 
         if (!welcomeShown) {
-            console.log('[Sil-Log-05] Welcome popup triggered. Showing in 600ms.');
+            console.log('[OlivaPerez-Log-05] Welcome popup triggered. Showing in 600ms.');
             setTimeout(() => {
                 welcomeModal.classList.add('active');
-                console.log('[Sil-Log-06] Welcome popup active.');
+                console.log('[OlivaPerez-Log-06] Welcome popup active.');
             }, 600);
         } else {
-            console.log('[Sil-Log-07] Welcome popup suppressed via sessionStorage.');
+            console.log('[OlivaPerez-Log-07] Welcome popup suppressed via sessionStorage.');
         }
 
         const closeModalFunc = () => {
-            console.log('[Sil-Log-08] Closing welcome popup and setting sessionStorage dismiss flag.');
+            console.log('[OlivaPerez-Log-08] Closing welcome popup and setting sessionStorage dismiss flag.');
             welcomeModal.classList.remove('active');
-            sessionStorage.setItem('sil-welcome-popup-dismissed', 'true');
+            sessionStorage.setItem('oliva-perez-welcome-popup-dismissed', 'true');
         };
 
         modalCloseBtn.addEventListener('click', closeModalFunc);

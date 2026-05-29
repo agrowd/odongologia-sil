@@ -1,13 +1,21 @@
 # 📜 Historial de Cambios (`changelog.md`)
 
-## [1.0.0] - 2026-05-29
+## [1.1.0] - 2026-05-29
 ### Added
-- Inicialización de Ariadne Engine (estructura `.synapse/`).
-- Diseño de arquitectura limpia para el nuevo sitio estático de **Odontología Sil**.
-- Planificación del cambio de paleta de colores a tonos femeninos (Soft Rose, Rose Gold, Off-white).
-- Planificación para eliminar la sección de acceso/login.
-- Planificación para renombrar todas las menciones a "Emmanuel Ordinas" y su clínica a "Odontología Sil".
-- Creación de `web/styles.css` con el sistema de estilos premium de la clínica.
-- Creación de `web/index.html` con toda la información original adaptada para la **Dra. Sil**.
-- Creación de `web/main.js` para las lógicas interactivas de modal, menú responsivo y scroll.
-- Verificación exitosa de todos los casos de prueba de QA.
+- Integración del logotipo oficial `logo.jpg` en header, popup y footer.
+- Importación de la fuente tipográfica **Bebas Neue** para los títulos corporativos principales.
+- Estilos para tarjetas de perfil del equipo médico de trabajo.
+- Incorporación de los doctores **Dra. Silvia Perez** (M.N. 35.066) y **Dr. Joaquín Oliva Fredriks** (M.N. 34.672).
+
+### Changed
+- Migración de marca de "Odontología Sil" a **Oliva Perez Odontología**.
+- Esquema de colores re-diseñado a los tonos de la marca: Degradado Naranja-Rojo (#E33E16), Naranja-Brillante (#F57C00), Amarillo Oro (#FFB74D) y Negro Carbón (#16181A).
+- Textos de Hero adaptados a: "Sonreír con confianza empieza acá".
+- Especialidad de Ortodoncia asociada a **SonrisasAllright**.
+- Sucursal unificada a una única sede en CABA: **Av. Independencia 1637**.
+- Correo de contacto redirigido a `olivaperezodontologia@gmail.com` y teléfonos actualizados a `1137827412` y `2215408529`.
+
+### Removed
+- Eliminación de la sección de Tecnología de precisión / Escaneo 3D.
+- Eliminación de la mención a Growbe en Estética dental.
+- Eliminación completa del banner dividido de Especialidades Médicas (Salud Integral / Estética Facial).
