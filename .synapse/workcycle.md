@@ -45,4 +45,22 @@
 - [x] Implementar una moderna Galería de Fotos del Consultorio en la sección de Ubicación con sus tres fotos de instalaciones reales.
 - [x] Implementar la sección de Testimonios / Reseñas de Google Maps con estrellas y tres testimonios destacados.
 - [x] Sincronizar el perfil oficial de Instagram en los iconos sociales del modal y pie de página.
+- [x] Configurar de forma segura la URL remota utilizando el Personal Access Token provisto por el usuario y realizar la subida de los cambios a GitHub, disparando de manera exitosa el deploy automático en Vercel.
+
+---
+
+## 📅 Sesión: 2026-06-01 (Vinculación de Opiniones Individuales de Google Maps)
+
+### 🎯 Objetivos de la Sesión
+1. Vincular cada una de las 4 tarjetas de reseñas en `index.html` con su respectivo enlace corto de Google Maps provisto por el usuario (`maps.app.goo.gl`), validando la autenticidad de cada comentario individual.
+2. Actualizar el botón general "Ver opiniones en Google Maps" para que dirija a la ficha de negocio real completa de **Oliva Perez Odontología** en lugar de una opinión específica.
+3. Actualizar la bitácora de Ariadne Engine y sincronizar el chat con `chat.md`.
+4. Subir las modificaciones a GitHub para que Vercel actualice el deploy en tiempo real.
+
+### 📝 Tareas Realizadas
+- [x] Analizar la correspondencia de los 4 enlaces cortos de opiniones con las capturas e identidades de los pacientes (Rodrigo Fernandez, Carla Veron, vals, Gerardo Cabrera).
+- [x] Modificar `index.html` para convertir cada tarjeta de opinión `.review-card` en un elemento interactivo `<a>` con su correspondiente link directo de reseña en Google Maps (`target="_blank"`), mejorando la UX y la transparencia.
+- [x] Actualizar el botón principal de reseñas a la URL oficial del perfil de Google Maps de la clínica.
+- [x] Documentar los progresos en la memoria persistente del Ariadne Engine (`workcycle.md`, `chat.md`).
+
 
