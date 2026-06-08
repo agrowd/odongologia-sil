@@ -31,4 +31,15 @@
 - **Usuario**: Compartió una lista de 4 enlaces cortos de opiniones de Google Maps (`maps.app.goo.gl`) para integrarlos con las opiniones.
 - **Asistente**: Analizó y clasificó las redirecciones de cada uno de los 4 enlaces cortos según el orden cronológico de las capturas de pantalla de los pacientes (Rodrigo Fernandez, Carla Veron, vals, Gerardo Cabrera). Modificó `index.html` convirtiendo cada tarjeta de reseña `.review-card` en un enlace `<a>` funcional y directo que apunta a su respectiva opinión auténtica. Además, actualizó el botón general de reseñas de Google Maps para dirigir a la ficha completa de negocio de **Oliva Perez Odontología**, permitiendo ver todas las calificaciones y fotos, y subió los cambios finales a GitHub.
 
+## Sesión - 2026-06-08
+- **Usuario**: Informó que en celulares el navbar y otros elementos del sitio se rompían/superponían, solicitó que el navbar se mantenga oscuro en scroll y entregó la foto del Od. Joaquín Oliva Fredriks en el directorio raíz.
+- **Asistente**: Identificó un error en `main.js` que cambiaba el fondo del navbar a blanco en scroll y superposiciones de espacio por el botón "Consultas" en móviles. Diseñó un Plan de Implementación de optimización móvil responsiva y de integración de la foto.
+- **Usuario**: Aprobó el plan de implementación.
+- **Asistente**:
+  1. Integró la foto de Joaquín (`Oliva-Fredriks.jpeg`) en su perfil de `index.html`.
+  2. Modificó `main.js` para mantener el navbar oscuro (`rgba(18, 18, 20, ...)`) al hacer scroll.
+  3. Editó `styles.css` aplicando el bypass de consultas móvil, escala responsive del logo, absolute matching para el menú y prevención de desbordes en el modal de bienvenida.
+  4. Ejecutó con éxito la subida de los cambios a GitHub mediante bypass del Credential Helper de Windows para evitar bloqueos del CLI y confirmó el deploy automático en Vercel.
+
+
 

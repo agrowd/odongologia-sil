@@ -81,7 +81,7 @@
 - [x] Corregir color del navbar sticky en scroll en `main.js` (Completado).
 - [x] Ocultar botón Consultas en header de celulares (< 768px) (Completado).
 - [x] Adaptar logo, espaciados de container, botones y modales en media queries de `styles.css` (Completado).
-- [ ] Verificar localmente la responsividad y subir cambios.
+- [x] Verificar localmente la responsividad y subir cambios (Completado).
 
 
 
