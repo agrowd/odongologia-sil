@@ -83,5 +83,24 @@
 - [x] Adaptar logo, espaciados de container, botones y modales en media queries de `styles.css` (Completado).
 - [x] Verificar localmente la responsividad y subir cambios (Completado).
 
+---
+
+## 📅 Sesión: 2026-06-08 (Actualización de Favicon y Logotipos)
+
+### 🎯 Objetivos de la Sesión
+1. Configurar `logo-icon.jpg` como el favicon del sitio en `index.html`.
+2. Actualizar el logo de la cabecera (navbar) para utilizar `logo-icon.jpg` en lugar de `logo-horizontal.jpg`.
+3. Actualizar el logo del pie de página (footer) para utilizar `logo.jpg` en lugar de `logo-horizontal.jpg`.
+4. Registrar los cambios en Decisions, Bitácora y Chat.
+5. Sincronizar cambios a GitHub.
+
+### 📝 Tareas Realizadas
+- [x] Agregar la etiqueta `<link rel="icon">` apuntando a `logo-icon.jpg` en el head de `index.html` (Completado).
+- [x] Cambiar la imagen de la cabecera a `logo-icon.jpg` en `index.html` (Completado).
+- [x] Cambiar la imagen del footer a `logo.jpg` en `index.html` (Completado).
+- [x] Documentar cambios en `.synapse/workcycle.md` y `.synapse/chat.md` (Completado).
+- [ ] Subir cambios a GitHub.
+
+
 
 

@@ -40,6 +40,9 @@
   2. Modificó `main.js` para mantener el navbar oscuro (`rgba(18, 18, 20, ...)`) al hacer scroll.
   3. Editó `styles.css` aplicando el bypass de consultas móvil, escala responsive del logo, absolute matching para el menú y prevención de desbordes en el modal de bienvenida.
   4. Ejecutó con éxito la subida de los cambios a GitHub mediante bypass del Credential Helper de Windows para evitar bloqueos del CLI y confirmó el deploy automático en Vercel.
+- **Usuario**: Solicitó usar `logo-icon.jpg` como favicon y como icono del navbar, y `logo.jpg` en el footer.
+- **Asistente**: Agregó la etiqueta del favicon en el `head` apuntando a `logo-icon.jpg`, actualizó el logo del navbar a `logo-icon.jpg`, actualizó el logo del footer a `logo.jpg` en `index.html`, registró los cambios en `.synapse/` y subió las actualizaciones a GitHub.
+
 
 
 
