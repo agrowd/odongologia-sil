@@ -63,4 +63,25 @@
 - [x] Actualizar el botón principal de reseñas a la URL oficial del perfil de Google Maps de la clínica.
 - [x] Documentar los progresos en la memoria persistente del Ariadne Engine (`workcycle.md`, `chat.md`).
 
+---
+
+## 📅 Sesión: 2026-06-08 (Correcciones Mobile y Foto del Od. Joaquín Oliva Fredriks)
+
+### 🎯 Objetivos de la Sesión
+1. Corregir los problemas de responsividad del navbar y cabecera en celulares (evitando superposición de elementos).
+2. Asegurar que el navbar mantenga siempre su fondo oscuro (incluso en eventos scroll).
+3. Integrar la foto real del Od. Joaquín Oliva Fredriks (`Oliva-Fredriks.jpeg`) en su correspondiente perfil en la sección Sobre Nosotros.
+4. Ajustar modales y botones en mobile para evitar desbordes y mejorar la legibilidad.
+5. Documentar los cambios en la bitácora de la sesión y en decisiones de diseño.
+6. Realizar commit y push para actualizar el deploy automático en Vercel.
+
+### 📝 Tareas Realizadas
+- [x] Diseñar el plan de implementación para ajustes responsivos y foto (Completado).
+- [x] Implementar la foto real de Joaquín en `index.html` (Completado).
+- [x] Corregir color del navbar sticky en scroll en `main.js` (Completado).
+- [x] Ocultar botón Consultas en header de celulares (< 768px) (Completado).
+- [x] Adaptar logo, espaciados de container, botones y modales en media queries de `styles.css` (Completado).
+- [ ] Verificar localmente la responsividad y subir cambios.
+
+
 

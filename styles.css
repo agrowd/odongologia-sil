@@ -1016,18 +1016,31 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+    #btn-consultas {
+        display: none;
+    }
+
+    .logo img {
+        height: 38px;
+    }
+
+    .logo-text {
+        font-size: 1.6rem;
+    }
+
     .nav-menu {
-        position: fixed;
-        top: 85px;
+        position: absolute;
+        top: 100%;
         left: -100%;
         width: 100%;
-        height: calc(100vh - 85px);
+        height: calc(100vh - 90px);
         background-color: var(--color-bg-white);
         flex-direction: column;
         padding: 4rem 2rem;
         gap: 2.5rem;
         transition: var(--transition-smooth);
         border-top: 1px solid rgba(245, 124, 0, 0.15);
+        z-index: 99;
     }
     
     .nav-menu.active {
@@ -1049,6 +1062,8 @@ footer {
     
     .modal-window {
         padding: 3rem 1.8rem 2.5rem;
+        max-height: 90vh;
+        overflow-y: auto;
     }
     
     .whatsapp-floating {
@@ -1059,6 +1074,34 @@ footer {
         font-size: 1.6rem;
     }
 }
+
+@media screen and (max-width: 576px) {
+    .hero-buttons {
+        flex-direction: column;
+        width: 100%;
+        gap: 1rem;
+    }
+    
+    .hero-buttons .btn {
+        width: 100%;
+    }
+
+    .specialties-grid,
+    .reviews-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        padding: 0 1.2rem;
+    }
+
+    .logo-text {
+        font-size: 1.4rem;
+    }
+}
+
 
 /* ==========================================================================
    NUEVAS SECCIONES: GALERÍA DE CONSULTORIO Y OPINIONES

@@ -55,10 +55,10 @@ document.addEventListener('DOMContentLoaded', () => {
         if (header) {
             if (window.scrollY > 40) {
                 header.style.boxShadow = 'var(--shadow-medium)';
-                header.style.backgroundColor = 'rgba(250, 247, 247, 0.98)';
+                header.style.backgroundColor = 'rgba(18, 18, 20, 0.98)';
             } else {
                 header.style.boxShadow = 'none';
-                header.style.backgroundColor = 'rgba(250, 247, 247, 0.95)';
+                header.style.backgroundColor = 'rgba(18, 18, 20, 0.95)';
             }
         }
     });
