@@ -115,7 +115,7 @@
 - [x] Pegar el script global de Google tag antes del cierre de `</head>` en `index.html` (Completado).
 - [x] Implementar la escucha de clics en todos los enlaces conteniendo `wa.me` en `main.js` para enviar evento `click_whatsapp` y `conversion` (Completado).
 - [x] Actualizar `.synapse/decisions.md`, `.synapse/workcycle.md` y `.synapse/chat.md` (Completado).
-- [ ] Subir cambios a GitHub.
+- [x] Subir cambios a GitHub (Completado).
 
 
 
