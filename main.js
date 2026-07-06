@@ -133,4 +133,25 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+
+    // ==========================================================================
+    // GOOGLE ADS WHATSAPP CONVERSION CLICK EVENT TRACKING
+    // ==========================================================================
+    const whatsappLinks = document.querySelectorAll('a[href*="wa.me"]');
+    whatsappLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            console.log('[OlivaPerez-Log-09] WhatsApp link clicked. Sending click event.');
+            if (typeof gtag === 'function') {
+                gtag('event', 'click_whatsapp', {
+                    'event_category': 'Contact',
+                    'event_label': link.getAttribute('href')
+                });
+                
+                // Trigger generic conversion for Google Ads
+                gtag('event', 'conversion', {
+                    'send_to': 'AW-17809320394'
+                });
+            }
+        });
+    });
 });

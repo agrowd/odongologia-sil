@@ -42,6 +42,9 @@
   4. Ejecutó con éxito la subida de los cambios a GitHub mediante bypass del Credential Helper de Windows para evitar bloqueos del CLI y confirmó el deploy automático en Vercel.
 - **Usuario**: Solicitó usar `logo-icon.jpg` como favicon y como icono del navbar, y `logo.jpg` en el footer.
 - **Asistente**: Agregó la etiqueta del favicon en el `head` apuntando a `logo-icon.jpg`, actualizó el logo del navbar a `logo-icon.jpg`, actualizó el logo del footer a `logo.jpg` en `index.html`, registró los cambios en `.synapse/` y subió las actualizaciones a GitHub.
+- **Usuario**: Solicitó integrar la etiqueta global de seguimiento de Google Ads (gtag.js) con ID `AW-17809320394` para registrar conversiones de WhatsApp.
+- **Asistente**: Agregó la etiqueta global en el head de `index.html`. Además, programó un script automático en `main.js` para detectar clics en enlaces `wa.me` y reportarlos como eventos a Google Ads (`click_whatsapp` y `conversion`). Sincronizó y subió a GitHub.
+
 
 
 

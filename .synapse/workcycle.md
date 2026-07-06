@@ -99,7 +99,24 @@
 - [x] Cambiar la imagen de la cabecera a `logo-icon.jpg` en `index.html` (Completado).
 - [x] Cambiar la imagen del footer a `logo.jpg` en `index.html` (Completado).
 - [x] Documentar cambios en `.synapse/workcycle.md` y `.synapse/chat.md` (Completado).
+- [x] Subir cambios a GitHub (Completado).
+
+---
+
+## 📅 Sesión: 2026-07-06 (Seguimiento de Conversiones de WhatsApp)
+
+### 🎯 Objetivos de la Sesión
+1. Configurar la etiqueta global de seguimiento de Google Ads (gtag.js) con ID `AW-17809320394` en el head de `index.html`.
+2. Agregar un detector automático de clics en enlaces de WhatsApp (`wa.me`) en `main.js` para enviar eventos de conversión y registrar leads en Google Ads.
+3. Registrar los cambios en Decisions, Bitácora y Chat.
+4. Realizar commit y push para actualizar producción en GitHub/Vercel.
+
+### 📝 Tareas Realizadas
+- [x] Pegar el script global de Google tag antes del cierre de `</head>` en `index.html` (Completado).
+- [x] Implementar la escucha de clics en todos los enlaces conteniendo `wa.me` en `main.js` para enviar evento `click_whatsapp` y `conversion` (Completado).
+- [x] Actualizar `.synapse/decisions.md`, `.synapse/workcycle.md` y `.synapse/chat.md` (Completado).
 - [ ] Subir cambios a GitHub.
+
 
 
 
